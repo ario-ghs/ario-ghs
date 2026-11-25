@@ -16,6 +16,7 @@ I work at the point where logistics, electrical systems and practical software m
 | Project | Description |
 |---|---|
 | [**worktime**](https://github.com/ario-ghs/worktime) | Time-tracking web app for Android: clock in/out, breaks, overtime, absences, German Working Time Act checks, and bilingual Excel/PDF timesheets. [Open the app](https://ario-ghs.github.io/worktime/) |
+| [**praxis-zeiterfassung**](https://github.com/ario-ghs/praxis-zeiterfassung) | Staff time-tracking kiosk for a medical practice: PIN clock-in on a shared tablet, approval workflow for vacation and sick leave, audit log, and monthly Excel/PDF reports. [Open the app](https://ario-ghs.github.io/praxis-zeiterfassung/) · [User manual](https://github.com/ario-ghs/praxis-zeiterfassung/blob/main/docs/Benutzerhandbuch.md) |
 
 *More tools for logistics and electrical work are on the way.*
 
